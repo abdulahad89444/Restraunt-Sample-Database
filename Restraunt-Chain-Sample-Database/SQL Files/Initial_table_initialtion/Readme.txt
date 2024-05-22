@@ -1,0 +1,1 @@
+Use the "Table Initilization.sql" file if "Table Initialization_2.sql" file is giving errors and then add the missing tables manually with the code provided in "More Tables.sql" file
